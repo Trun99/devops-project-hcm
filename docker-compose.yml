@@ -57,4 +57,4 @@ services:
 
 # STUDENT TODO: Define named volumes
 volumes:
-  postgres_data:
+  postgres_data: sigma
